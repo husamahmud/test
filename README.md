@@ -1,6 +1,6 @@
 # LeetCode
 
-This g sdafsd my solutions to LeetCode problems.
+This repository contains my solutions to LeetCode problems.
 
 Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 
